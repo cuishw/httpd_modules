@@ -45,15 +45,15 @@ data:
     rpms:
       httpd:
         rationale: Apache httpd
-        ref: 14745a078ad6c3e86e630488785d617d95b73453
+        ref: 1674f921002eb7387fb23630e0e7c891179be560 
         buildorder: 10
       mod_http2:
         rationale: HTTP/2 support for Apache httpd
-        ref: ffed062848c205e3407edf3d806a19f2b516814a
+        ref: 57a96b21b7bb035b26e5c94eaecd6d4fee5136b3
         buildorder: 20
       mod_md:
         rationale: Certificate provisioning using ACME for Apache httpd
-        ref: a1432d4a8de928e86562aa86587afeca1e3b7db1
+        ref: 57a96b21b7bb035b26e5c94eaecd6d4fee5136b3
         buildorder: 20
 ...
 
