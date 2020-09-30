@@ -53,7 +53,7 @@ data:
         buildorder: 20
       mod_md:
         rationale: Certificate provisioning using ACME for Apache httpd
-        ref: 57a96b21b7bb035b26e5c94eaecd6d4fee5136b3
+        ref: 4e772616594a9ac4b6ae67614d888eec4f7d9869 
         buildorder: 20
 ...
 
